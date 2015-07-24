@@ -3,7 +3,7 @@
   "description": "PHP wrapper for Tutum API",
   "license": "MIT",
   "require": {
-    "guzzlehttp/guzzle": "~4.1",
+    "guzzlehttp/guzzle": "~6.0",
     "chromabits/nucleus": "~0.1"
   },
   "require-dev": {
